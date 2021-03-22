@@ -1,0 +1,30 @@
+.djs{
+  border-top:1rpx solid #F6F6F6;
+  background:#fff;
+  margin-top:20rpx;
+  padding:10rpx 30rpx;
+  box-sizing: border-box;
+  display:flex;
+  width:100%;
+  align-items:center;
+  font-size:26rpx;
+  flex-direction:row;
+  justify-content:center;
+}
+.djs_title{
+  color:#3DCC37;
+  padding-right:10rpx;
+  font-size:45rpx;
+}
+.time{
+  color:#fff;
+  background:#3DCC37;
+  border-radius:4rpx;
+  padding:6rpx;
+  min-width:40rpx;
+  text-align:center;
+}
+.time_text{
+  color:#3DCC37;
+  padding:0 6rpx;
+}

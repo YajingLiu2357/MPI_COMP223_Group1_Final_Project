@@ -1,0 +1,32 @@
+<!--index.wxml-->
+
+<view class="container">
+
+  <view class="item">
+  <view class="login-item">
+    <view class="login-item-info">Name</view>
+    <view><input bindinput="getName" /></view>
+  </view>
+
+  
+  <view class="login-item">
+    <view class="login-item-info">UserName</view>
+    <view><input bindinput="getUsername" /></view>
+  </view>
+
+  <view class="login-item">
+    <view class="login-item-info">Password</view>
+      <view class="login-pwd"></view>
+      <input style="flex-grow:1" password="true" bindinput="getPassword"/>
+    </view>
+  </view>
+
+  <view class="login-item bottom">
+    <button class="login-btn" bindtap="setupBtnClick">Setup</button>
+  </view>
+</view>
+
+
+
+
+

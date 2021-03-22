@@ -1,0 +1,17 @@
+<view class="djs">
+  
+  <text class="djs_title" >距離充電完成還有--</text>
+  <text class="time" space="nbsp">{{djs.hour}}</text>
+  <text class="time_text">时</text>
+  <text class="time" space="nbsp">{{djs.min}}</text>
+  <text class="time_text">分</text>
+  <text class="time" space="nbsp">{{djs.sec}}</text>
+  <text class="time_text">秒</text>
+ 
+
+
+
+
+<!-- <image style="width: 200px; height: 200px; background-color: #eeeeee;" mode="aspectFill" src="http://clipart-library.com/image_gallery2/Battery-Charging-PNG-Pic.png"></image> -->
+
+</view>

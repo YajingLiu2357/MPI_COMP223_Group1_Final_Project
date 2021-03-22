@@ -1,0 +1,10 @@
+/* pages/map/map.wxss */
+#but {
+  border: 0;
+  width: 30px;
+  height: 30px;
+  background: url(https://i.loli.net/2021/03/17/wK1yEBkevSt4Q7T.png);
+  background-size: 100%;
+  border: 2px solid #4abe43;
+  border-radius: 50%;
+}

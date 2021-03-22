@@ -1,0 +1,20 @@
+
+<view class="container">
+  <view>Welcome {{name}}</view>
+
+  <view class="image">
+    <navigator url="../map/map">
+      <image src="/images/map.png" ></image>
+    </navigator>  
+  </view>
+
+  <view class="image">
+    <navigator url="../timer/timer">
+      <image src="/images/battery.gif" ></image>
+    </navigator>  
+  </view>
+
+</view>
+
+
+
