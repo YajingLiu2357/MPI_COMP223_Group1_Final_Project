@@ -18,21 +18,21 @@ Based on the previous mentioned main functions, we divide our program into three
 #### Part3 Integration and Test
 We integrate three separate modules into a final version. Combining the objective conditions and our plan, we achieve the following functions: <br>
     1.	The database is established based on the cloud service provided by Tencent and user login and registration is realized through cloud development.<br>
-    2.	Based on the comprehensive development of Tencent map, the positioning, ranging, optimal route planning and navigation of the charging pile are realized.
+    2.	Based on the comprehensive development of Tencent map, the positioning, ranging, optimal route planning and navigation of the charging pile are realized. <br>
     3.	The charging reminder is realized to synchronize the charging state of the car and the charging pile.
 ### Members
 There are three people in developing this program: Lam, Mathew and Stephen. And the following is the responsibility of each member. 
 
-Mathew is responsible to achieve the function of login, logout and signup. <br>
-Stephen is responsible to achieve the function of nearest navigation of changing pile. <br>
-Lam is responsible to achieve the function of reminding of finishing.
+1. Mathew is responsible to achieve the function of login, logout and signup. <br>
+2. Stephen is responsible to achieve the function of nearest navigation of changing pile. <br>
+3. Lam is responsible to achieve the function of reminding of finishing.
 ### Schedule
 We plan to develop our program for four months in total. 
 
-The first month is used to have some basic function, such as login, navigation and reminding, which completes about a quarter of the entire project. <br>
-The second month is used to have some additional function, such as collecting suggestion and paying, which completes about another quarter of the entire project. <br>
-The third month is used to have the function to mark the damaged changing pile and report to repairman, which completes about thirty percent of the whole project. <br>
-The fourth month is used to achieve using in iOS and Android, not just in WeChat and test our program to prepare for launching, which completes the project.
+1. The first month is used to have some basic function, such as login, navigation and reminding, which completes about a quarter of the entire project. <br>
+2. The second month is used to have some additional function, such as collecting suggestion and paying, which completes about another quarter of the entire project. <br>
+3. The third month is used to have the function to mark the damaged changing pile and report to repairman, which completes about thirty percent of the whole project. <br>
+4. The fourth month is used to achieve using in iOS and Android, not just in WeChat and test our program to prepare for launching, which completes the project.
 ### Current status
 Our software has completed the goal of first month, which means that we have achieved three basic functions, and we also finished the integration and testing of the three functions.
 ### Future Plan
