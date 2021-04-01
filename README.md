@@ -18,6 +18,13 @@
     developing our software.
 ## Development Plan
 ### Development Process
+    Although the borderlines between different stages in our developing process are nor so clear, our process basically consists of following three parts.
+####Part1 Planning
+    First, we make some analysis for environment of market and summarize the features of market. Besides, according to our conclusions of analyzing market, we discuss and specify three fundamental functions of our Mini program: 
+    1.	Provide users Login interface and Setup function.
+    2.	Provide the nearest navigation service of changing pile corresponding occupancy stats of the changing pile.
+    3.	Display real-time charging status query (quantity, remaining charging time) and completion of charging prompt
+
     
     
      
