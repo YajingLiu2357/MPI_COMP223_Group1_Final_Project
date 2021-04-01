@@ -21,12 +21,12 @@ We integrate three separate modules into a final version. Combining the objectiv
     2.	Based on the comprehensive development of Tencent map, the positioning, ranging, optimal route planning and navigation of the charging pile are realized.
     3.	The charging reminder is realized to synchronize the charging state of the car and the charging pile.
 ### Members
-There are three people in developing this program: Lam, Mathew and Stephen. And the following is the responsibility of each member.<br>
+There are three people in developing this program: Lam, Mathew and Stephen. And the following is the responsibility of each member. <br>
 Mathew is responsible to achieve the function of login, logout and signup.
 Stephen is responsible to achieve the function of nearest navigation of changing pile.
 Lam is responsible to achieve the function of reminding of finishing.
 ### Schedule
-We plan to develop our program for four months in total.<br>
+We plan to develop our program for four months in total. <br>
 The first month is used to have some basic function, such as login, navigation and reminding, which completes about a quarter of the entire project.
 The second month is used to have some additional function, such as collecting suggestion and paying, which completes about another quarter of the entire project.
 The third month is used to have the function to mark the damaged changing pile and report to repairman, which completes about thirty percent of the whole project.
