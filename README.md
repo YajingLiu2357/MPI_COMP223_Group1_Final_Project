@@ -10,16 +10,16 @@ To response the market more appropriately, we choose to use Agile to develop our
 Although the borderlines between different stages in our developing process are nor so clear, our process basically consists of following three parts.
 #### Part1 Planning
 First, we make some analysis for environment of market and summarize the features of market. Besides, according to our conclusions of analyzing market, we discuss and specify three fundamental functions of our Mini program: <br>
-    1. Provide users Login interface and Setup function. <br>
-    2. Provide the nearest navigation service of changing pile corresponding occupancy stats of the changing pile.<br>
-    3. Display real-time charging status query (quantity, remaining charging time) and completion of charging prompt
+    1.  Provide users Login interface and Setup function. <br>
+    2.  Provide the nearest navigation service of changing pile corresponding occupancy stats of the changing pile.<br>
+    3.  Display real-time charging status query (quantity, remaining charging time) and completion of charging prompt
 #### Part2 Implementation and Module Test
 Based on the previous mentioned main functions, we divide our program into three different modules and distribute these modules to different developers for independent and parallel development. After implementation, we run individual module test to ensure that our modules can be normal and effective operation. And we release some beta versions.
 #### Part3 Integration and Test
 We integrate three separate modules into a final version. Combining the objective conditions and our plan, we achieve the following functions: <br>
-    1. The database is established based on the cloud service provided by Tencent and user login and registration is realized through cloud development.<br>
-    2. Based on the comprehensive development of Tencent map, the positioning, ranging, optimal route planning and navigation of the charging pile are realized. <br>
-    3. The charging reminder is realized to synchronize the charging state of the car and the charging pile.
+    1.  The database is established based on the cloud service provided by Tencent and user login and registration is realized through cloud development.<br>
+    2.  Based on the comprehensive development of Tencent map, the positioning, ranging, optimal route planning and navigation of the charging pile are realized. <br>
+    3.  The charging reminder is realized to synchronize the charging state of the car and the charging pile.
 ### Members
 There are three people in developing this program: Lam, Mathew and Stephen. And the following is the responsibility of each member. 
 
