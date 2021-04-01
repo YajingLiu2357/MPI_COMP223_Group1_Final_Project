@@ -39,6 +39,12 @@ Our software has completed the goal of first month, which means that we have ach
 In the future, we plan to do the following functions: collection suggestion, paying, marking damaged changing pile and being able to use in iOS and Android.
 ## Demo
 ## Environments of the software development and running
+Development platform: WeChat Devetools <br>
+Programming language: wxml, wxss, js. <br>
+Operating system: Windows, MacOS. <br>
+
+Note: Our program can only be run on WeChat at this moment.
+
 
     
 
