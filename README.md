@@ -23,9 +23,9 @@ We integrate three separate modules into a final version. Combining the objectiv
 ### Members
 There are three people in developing this program: Lam, Mathew and Stephen. And the following is the responsibility of each member. 
 
-1. Mathew is responsible to achieve the function of login, logout and signup. <br>
-2. Stephen is responsible to achieve the function of nearest navigation of changing pile. <br>
-3. Lam is responsible to achieve the function of reminding of finishing.
+* Mathew is responsible to achieve the function of login, logout and signup. <br>
+* Stephen is responsible to achieve the function of nearest navigation of changing pile. <br>
+* Lam is responsible to achieve the function of reminding of finishing.
 ### Schedule
 We plan to develop our program for four months in total. 
 
