@@ -23,15 +23,15 @@ We integrate three separate modules into a final version. Combining the objectiv
 ### Members
 There are three people in developing this program: Lam, Mathew and Stephen. And the following is the responsibility of each member. 
 
-Mathew is responsible to achieve the function of login, logout and signup.
-Stephen is responsible to achieve the function of nearest navigation of changing pile.
+Mathew is responsible to achieve the function of login, logout and signup. <br>
+Stephen is responsible to achieve the function of nearest navigation of changing pile. <br>
 Lam is responsible to achieve the function of reminding of finishing.
 ### Schedule
 We plan to develop our program for four months in total. 
 
-The first month is used to have some basic function, such as login, navigation and reminding, which completes about a quarter of the entire project.
-The second month is used to have some additional function, such as collecting suggestion and paying, which completes about another quarter of the entire project.
-The third month is used to have the function to mark the damaged changing pile and report to repairman, which completes about thirty percent of the whole project.
+The first month is used to have some basic function, such as login, navigation and reminding, which completes about a quarter of the entire project. <br>
+The second month is used to have some additional function, such as collecting suggestion and paying, which completes about another quarter of the entire project. <br>
+The third month is used to have the function to mark the damaged changing pile and report to repairman, which completes about thirty percent of the whole project. <br>
 The fourth month is used to achieve using in iOS and Android, not just in WeChat and test our program to prepare for launching, which completes the project.
 ### Current status
 Our software has completed the goal of first month, which means that we have achieved three basic functions, and we also finished the integration and testing of the three functions.
