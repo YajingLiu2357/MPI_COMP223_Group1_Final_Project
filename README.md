@@ -1,9 +1,6 @@
 # MPI_COMP223_Group1_Final_Project
 ## Introduction
-    With the development of electric car, people are increasingly demanding the convenience of electric vehicle charging. 
-    And Macao government also pay attention on this field. Thus, to improve Macao’s electric vehicle charging service, 
-    we develop a WeChat mini program based on the WeChat applet development platform, which aims to provide a better 
-    solution for working in with the facilities for electric vehicles in current social conditions.
+With the development of electric car, people are increasingly demanding the convenience of electric vehicle charging. And Macao government also pay attention on this field. Thus, to improve Macao’s electric vehicle charging service, we develop a WeChat mini program based on the WeChat applet development platform, which aims to provide a better solution for working in with the facilities for electric vehicles in current social conditions.
 ## Developing Model
     First of all, we analyze the characteristics of our facing market. To be more specifically, our main users are Macao’s 
     individual owners of electric cars. It is a market that need to be paid close attention on customers. Moreover, the 
@@ -31,6 +28,8 @@
     1.	The database is established based on the cloud service provided by Tencent and user login and registration is realized through cloud development.
     2.	Based on the comprehensive development of Tencent map, the positioning, ranging, optimal route planning and navigation of the charging pile are realized.
     3.	The charging reminder is realized to synchronize the charging state of the car and the charging pile.
+### Members
+    
 
 
     
