@@ -47,8 +47,8 @@ Operating system: Windows, MacOS. <br>
 Note: Our program can only be run on WeChat at this moment.
 
 ## Declaration
-We developed our Mini Program in WeChat Developer Tools.
-We used Tencent map and WX.cloud.database() in our Mini Program.
+We developed our Mini Program in WeChat Developer Tools. <br>
+We used Tencent map and WX.cloud.database() in our Mini Program.<br>
 We used Viamaker and Google Text To Speach in our video.
 
 
