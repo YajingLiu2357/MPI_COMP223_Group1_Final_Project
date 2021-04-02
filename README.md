@@ -38,6 +38,7 @@ Our software has completed the goal of first month, which means that we have ach
 ### Future Plan
 In the future, we plan to do the following functions: collection suggestion, paying, marking damaged changing pile and being able to use in iOS and Android.
 ## Demo
+[Our Demo](https://www.youtube.com/watch?v=h86JdfjxMJY)
 ## Environments of the software development and running
 Development platform: WeChat Devetools <br>
 Programming language: wxml, wxss, js. <br>
